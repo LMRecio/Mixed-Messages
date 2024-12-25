@@ -1,1 +1,1 @@
-Console app that display random messages
+Console app that displays random messages
